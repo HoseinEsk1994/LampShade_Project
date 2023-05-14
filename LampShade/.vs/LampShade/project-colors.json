@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c6e829c-2eb6-4bff-9f0c-a0151c1a00a9": {
+      "ProjectGuid": "4c6e829c-2eb6-4bff-9f0c-a0151c1a00a9",
+      "DisplayName": "LampShade",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
