@@ -5,7 +5,22 @@
       "ProjectGuid": "4c6e829c-2eb6-4bff-9f0c-a0151c1a00a9",
       "DisplayName": "LampShade",
       "ColorIndex": 0
+    },
+    "17d48463-c3f6-4054-93e6-e9836940ac51": {
+      "ProjectGuid": "17d48463-c3f6-4054-93e6-e9836940ac51",
+      "DisplayName": "ShopManagement.Domain",
+      "ColorIndex": 1
+    },
+    "83963560-b016-4b62-9094-00974a06cdc4": {
+      "ProjectGuid": "83963560-b016-4b62-9094-00974a06cdc4",
+      "DisplayName": "0_Framework",
+      "ColorIndex": 2
+    },
+    "43482b8d-d52b-43dd-bf5f-ec5b7066c4fe": {
+      "ProjectGuid": "43482b8d-d52b-43dd-bf5f-ec5b7066c4fe",
+      "DisplayName": "ShopManagement.Application.Contracts",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
