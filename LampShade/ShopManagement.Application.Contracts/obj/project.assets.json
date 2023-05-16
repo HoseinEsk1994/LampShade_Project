@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/0_Framework.dll": {}
         }
-      },
-      "ShopManagement.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "0_Framework": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ShopManagement.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShopManagement.Domain.dll": {}
-        }
       }
     }
   },
@@ -32,32 +19,27 @@
       "type": "project",
       "path": "../0_Framework/0_Framework.csproj",
       "msbuildProject": "../0_Framework/0_Framework.csproj"
-    },
-    "ShopManagement.Domain/1.0.0": {
-      "type": "project",
-      "path": "../ShopManagement.Domain/ShopManagement.Domain.csproj",
-      "msbuildProject": "../ShopManagement.Domain/ShopManagement.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ShopManagement.Domain >= 1.0.0"
+      "0_Framework >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\LampShade_Project\\code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+      "projectUniqueName": "G:\\LampShade_Project\\code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
       "projectName": "ShopManagement.Application.Contracts",
-      "projectPath": "H:\\LampShade_Project\\code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "H:\\LampShade_Project\\code\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
+      "projectPath": "G:\\LampShade_Project\\code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "G:\\LampShade_Project\\code\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "H:\\LampShade_Project\\code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "H:\\LampShade_Project\\code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "G:\\LampShade_Project\\code\\LampShade\\0_Framework\\0_Framework.csproj": {
+              "projectPath": "G:\\LampShade_Project\\code\\LampShade\\0_Framework\\0_Framework.csproj"
             }
           }
         }
@@ -92,7 +74,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -101,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
