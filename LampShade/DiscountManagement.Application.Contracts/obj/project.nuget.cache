@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUOx2xH+MC+mbL3jLchgqVn6q0fF85ekP2UgSDvPpq1uuMoupkh3QuRSopdXMSL0c/b8HKiKYtcjqb3nAVPNgA==",
+  "success": false,
+  "projectFilePath": "G:\\LampShade_Project\\code\\LampShade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  DiscountManagement.Application.Contracts -> DiscountManagement.Domain -> DiscountManagement.Domain.",
+      "libraryId": "DiscountManagement.Domain",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
