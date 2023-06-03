@@ -5,6 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 using _0_Framework.Domain;
+using ShopManagement.Domain.ProductAgg;
 
 namespace ShopManagement.Domain.ProductCategoryAgg
 {
@@ -26,6 +27,13 @@ namespace ShopManagement.Domain.ProductCategoryAgg
 
         public string Slug { get; private set; }
 
+        public ICollection<Product> Products { get; private set; }
+
+        protected ProductCategory()
+        {
+
+        }
+
 
         public ProductCategory(string name, string description, string picture
             , string pictureAlt, string pictureTitle, string keyWords, string metaDescription, string slug)
@@ -38,6 +46,8 @@ namespace ShopManagement.Domain.ProductCategoryAgg
             KeyWords = keyWords;
             MetaDescription = metaDescription;
             Slug = slug;
+            Products = new List<Product>();
+
         }
 
         public void Edit(string name, string description, string picture

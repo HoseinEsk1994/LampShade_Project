@@ -20,7 +20,37 @@
       "ProjectGuid": "43482b8d-d52b-43dd-bf5f-ec5b7066c4fe",
       "DisplayName": "ShopManagement.Application.Contracts",
       "ColorIndex": 3
+    },
+    "800e896e-737f-4b97-81a8-bb5aa49a0681": {
+      "ProjectGuid": "800e896e-737f-4b97-81a8-bb5aa49a0681",
+      "DisplayName": "ServiceHost",
+      "ColorIndex": 4
+    },
+    "40c38427-020f-4d0d-addb-f3d94b6dfed5": {
+      "ProjectGuid": "40c38427-020f-4d0d-addb-f3d94b6dfed5",
+      "DisplayName": "ShopManagement.Infrastructure.EFcore",
+      "ColorIndex": 5
+    },
+    "86fc5ee1-11f7-4826-a6a1-af1d0aca1b04": {
+      "ProjectGuid": "86fc5ee1-11f7-4826-a6a1-af1d0aca1b04",
+      "DisplayName": "ShopManagement.Application",
+      "ColorIndex": 6
+    },
+    "ab3893bf-91b5-4055-b086-a0472d12c995": {
+      "ProjectGuid": "ab3893bf-91b5-4055-b086-a0472d12c995",
+      "DisplayName": "ShopManagement.Configuration",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f2307ef4-5298-4a2d-a7a3-2027a230fadc": {
+      "ProjectGuid": "f2307ef4-5298-4a2d-a7a3-2027a230fadc",
+      "DisplayName": "01_LampshadeQuery",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 9
 }

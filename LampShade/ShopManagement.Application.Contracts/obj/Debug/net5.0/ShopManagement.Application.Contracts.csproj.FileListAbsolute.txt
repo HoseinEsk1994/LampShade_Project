@@ -1,3 +1,48 @@
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\refint\ShopManagement.Application.Contracts.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+H:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 G:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
 G:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 G:\LampShade_Project\code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

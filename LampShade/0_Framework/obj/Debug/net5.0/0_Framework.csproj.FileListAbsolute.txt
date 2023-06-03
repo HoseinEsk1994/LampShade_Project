@@ -1,3 +1,38 @@
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
+F:\Sample Codes\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\refint\0_Framework.dll
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+C:\Users\LENOVO\Desktop\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
+H:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+H:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.dll
+H:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
+H:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.dll
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
+H:\LampShade_Project\code\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
 G:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
 G:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.dll
 G:\LampShade_Project\code\LampShade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
